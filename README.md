@@ -10,7 +10,7 @@ A 3rd-year Computer Systems and Technologies student at the Technical University
 ## 💼 Experience
 * **Machine Learning & AI Software Engineering (Intern)** | *TNT Robotics Varna*
   * Developed AI-driven features integrating OpenAI APIs.
-* **Computer Systems Technician (Intern)** | *Zlatna Panega Titan*
+* **Computer Systems Technician (Intern)** | *TITAN Zlatna Panega*
   * Building a native software application focused on form automation and digital operations.
 
 ## 🛠️ Tech Stack & Tools
