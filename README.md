@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Denislav 👋
 
-<!--
-**denislavgrnv/denislavgrnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 3rd-year Computer Systems and Technologies student at the Technical University of Varna with a solid background in software engineering, full-stack web development, machine learning, and rapid hardware prototyping. I love bridging the gap between code and the physical world through custom electronics and 3D design.
 
-Here are some ideas to get you started:
+## 🎓 Education & Certifications
+* **B.Sc. Computer Systems and Technologies (3rd Year)** – Technical University of Varna
+* **JavaScript Developer Path Graduate** – SoftUni
+* **B2 First (FCE) Certificate** – Cambridge Assessment English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+* **Machine Learning & AI Software Engineering (Intern)** | *TNT Robotics Varna*
+  * Developed AI-driven features integrating OpenAI APIs.
+* **Computer Systems Technician (Intern)** | *Zlatna Panega Titan*
+  * Building a native software application focused on form automation and digital operations.
+
+## 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, TypeScript, Java, Python, C/C++
+* **Software Development:** React, Node.js, Express.js, Java Spring Boot
+* **Hardware & Electronics:** ESP32, Raspberry Pi, Arduino
+* **3D Prototyping:** 3D CAD Modeling (Autodesk Fusion 360), FDM 3D Printing (Anycubic)
+
+## 📫 Connect with Me
+* **GitHub:** [@denislavgrnv](https://github.com/denislavgrnv)
+* **LinkedIn:** [https://www.linkedin.com/in/denislav-goranov-18b8a1407/]
+* **Email:** [denislavgoranov14@gmail.com]
