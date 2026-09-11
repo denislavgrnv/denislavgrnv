@@ -20,6 +20,5 @@ A 3rd-year Computer Systems and Technologies student at the Technical University
 * **3D Prototyping:** 3D CAD Modeling (Autodesk Fusion 360), FDM 3D Printing (Anycubic)
 
 ## 📫 Connect with Me
-* **GitHub:** [@denislavgrnv](https://github.com/denislavgrnv)
 * **LinkedIn:** [https://www.linkedin.com/in/denislav-goranov-18b8a1407/]
 * **Email:** [denislavgoranov14@gmail.com]
